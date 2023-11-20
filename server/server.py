@@ -8,7 +8,7 @@ import time
 import random
 import threading
 
-ADDR = "localhost"
+ADDR = ""
 PORT = 8000
 MAX_PLAYERS = 10
 MSG_SIZE = 2048
