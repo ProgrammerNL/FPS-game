@@ -6,7 +6,3 @@ Install the dependencies with `pip install -r requirements.txt` and do `python3 
 
 ## Running the server
 The server does not have any dependencies. To run it, simple run the `server/main.py` file.
-
-## Credits
-1. [Richard Whitelock](https://distantlantern.itch.io) - Amazing Looking Skybox
-2. [Jestan](https://jestan.itch.io) - Tile Textures
